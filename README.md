@@ -10,3 +10,29 @@ Consultas inteligentes para insights valiosos. Manipulação de dados e Administ
 * Consultas com o SELECT
 * Filtros com WHERE
 * Ordenar com ORDER BY
+
+## Curso 2 - Consultas SQL: Avançando no SQL com MySQL
+* História do SQL e do MySQL
+* Consultas condicionais
+* Consultas LIKE
+* Consultas DISTINCT 
+* Consultas LIMIT
+* Consultas ORDER 
+* Consultas GROUP BY
+* Consultas HAVING
+* Consultas CASE
+* Consultas INNER JOIN
+* Consultas LEFT JOIN
+* Consultas RIGTH JOIN
+* Consultas FULL JOIN
+* Consultas CROSS JOIN
+* Consultas UNION
+* Consultas Sub Consultas
+* Views
+* Funções de String
+* Funções de Data
+* Funções Matemáticas
+* Conversão de dados
+* Relatórios
+
+
