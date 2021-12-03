@@ -36,6 +36,8 @@ Consultas inteligentes para insights valiosos. Manipulação de dados e Administ
 * Relatórios
 
 ## Curso 3 - Comandos DML: Manipulação de dados com MySQL
+![Captura de ecrã de 2021-12-02 20-09-30](https://user-images.githubusercontent.com/78432629/144685748-8eb8d1ad-ecbc-41bb-ba69-eea2496b2b6d.png)
+
 * Revisando Entidades e Tipos de dados
 * Modelagem
 * Reverse Engineer
@@ -50,5 +52,3 @@ Consultas inteligentes para insights valiosos. Manipulação de dados e Administ
 *  Campos de auto incremento
 *  Definindo padrões para os campos
 *  Triggers
-
-
