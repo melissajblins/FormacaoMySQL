@@ -35,4 +35,20 @@ Consultas inteligentes para insights valiosos. Manipulação de dados e Administ
 * Conversão de dados
 * Relatórios
 
+## Curso 3 - Comandos DML: Manipulação de dados com MySQL
+* Revisando Entidades e Tipos de dados
+* Modelagem
+* Reverse Engineer
+* Criando Banco de dados
+* Criando Tabela com PK e FK
+* Usando assistente MySQL
+* Incluir e importar dados
+* Alterar registros
+* Transaction
+* Commit
+* Rollback
+*  Campos de auto incremento
+*  Definindo padrões para os campos
+*  Triggers
+
 
