@@ -1,0 +1,15 @@
+USE vendas_sucos;
+
+CREATE TABLE Vendas
+(Numero VARCHAR(5) NOT NULL,
+Data_Venda DATE NULL,
+CPF VARCHAR(11) NOT NULL,
+Matricula VARCHAR(5) NOT NULL,
+Imposto FLOAT NULL,
+PRIMARY KEY(Numero));
+
+ALTER TABLE Vendas ADD CONSTRAINT FK_Clientes FOREIGN KEY (CPF) REFERENCES Clientes(CPF);
+
+ALTER TABLE Vendas ADD CONSTRAINT FK_Vendedores FOREIGN KEY (Matricula) REFERENCES Vendedores(Matricula);
+
+ALTER TABLE Vendas RENAME Notas;
