@@ -52,3 +52,22 @@ Consultas inteligentes para insights valiosos. Manipulação de dados e Administ
 *  Campos de auto incremento
 *  Definindo padrões para os campos
 *  Triggers
+
+## Curso 4 - Procedures SQL: Executando código no MySQL
+* Delimitadores
+* Criar, alterar e excluir Stored Procedures
+* Variáveis
+* Parâmetros
+* Controle e tratamento de erros
+* Controle de fluxo
+  * IF THEN ELSE
+  * IF THEN ELSEIF
+  * CASE END CASE
+  * CASE NOT FOUND
+  * CASE Condicional
+* Looping
+* SELECT INTO
+* Cursor
+* Funções
+* Gerar números aleatórios
+* Melhorar Triggers
