@@ -71,3 +71,29 @@ Consultas inteligentes para insights valiosos. Manipulação de dados e Administ
 * Funções
 * Gerar números aleatórios
 * Melhorar Triggers
+
+## Curso 5 - Administração do MySQL: Segurança e otimização do banco
+* Conhecendo o papel do DBA - DataBase Administrator
+* Serviço do MySQL
+* Tuning de Hardware
+* Variáveis de ambiente
+* Mecanismo de armazenamento MyISAM
+* InnoDB e Memory
+* Aplicar mecanismos de armazenamento
+* Mudar a localização da base
+* Backup com o mysqldump e Workbench
+* Backup de arquivos
+* Recuperar backups
+* Plano de execução
+* Custo da consulta
+* Conceito, criação e uso de índices
+* Algoritmos Hash e BTree
+* Ferramenta mysqlslap
+* Gerenciar usuários e privilégios
+  * Criando um usuário administrador
+  * Criando um usuário normal
+  * Criando um usuário para somente leitura
+  * Criando um usuário para backup
+  * Criando um usuário genérico
+  * Limitando o acesso aos esquemas
+  * Revogando privilégios
